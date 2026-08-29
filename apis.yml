@@ -38,6 +38,9 @@ description: >-
   developer portal is currently published; this profile captures the company's
   identity and probed domain-security posture.
 url: https://raw.githubusercontent.com/api-evangelist/nuevo-m-todo/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API or developer portal is currently published; this profile captures the company's identity and probed domain-security posture."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
